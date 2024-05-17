@@ -48,4 +48,4 @@ To know more about how to setup your enviroment visit the [Microsoft .NET Downlo
 - Minimal api
   
 ## About:
-The eProject.Onion Project was developed by [Trịnh Xuân Vinh Quy](https://www.facebook.com/Vhquy).
+The DatabaseUpdateEF Project was developed by [Trịnh Xuân Vinh Quy](https://www.facebook.com/Vhquy).
